@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9ecd908f2880973a2f599f081920eb023f08822d",
+  "prompts": {},
+  "humans": {
+    "h_ad56f1c64bc389": {
+      "author": "ayadav1 <ayadav1@cogiate.com>"
+    }
+  }
+}
