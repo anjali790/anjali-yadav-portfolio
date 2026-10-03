@@ -161,7 +161,7 @@ function App() {
               <Award size={30} />
               <p className="card-label">ACHIEVEMENT</p>
               <h3>Rockstar Award</h3>
-              <p>Awarded in 2022 for Exceptional Performance at Cogitate.</p>
+              <p>Awarded in 2024 for Exceptional Performance at Cogitate.</p>
             </article>
             <article className="feature-card">
               <Code2 size={30} />
