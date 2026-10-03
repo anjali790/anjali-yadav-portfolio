@@ -1,0 +1,15 @@
+package.json
+  h_ad56f1c64bc389 9-11
+  h_ad56f1c64bc389 23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "72eb009df17aae925ab5a13213fdbdeaee043ad1",
+  "prompts": {},
+  "humans": {
+    "h_ad56f1c64bc389": {
+      "author": "ayadav1 <ayadav1@cogiate.com>"
+    }
+  }
+}
