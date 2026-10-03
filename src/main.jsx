@@ -62,7 +62,7 @@ function App() {
     <div className="app">
       <header className="nav">
         <div className="nav-inner">
-          <button className="brand" onClick={() => go("home")}>AY<span>.</span></button>
+          <button className="brand" onClick={() => go("home")}>Anjali Yadav<span>.</span></button>
           <nav className={open ? "nav-links open" : "nav-links"}>
             {["about", "skills", "experience", "achievements", "contact"].map(x =>
               <button key={x} onClick={() => go(x)}>{x[0].toUpperCase() + x.slice(1)}</button>
