@@ -86,7 +86,7 @@ function App() {
             </p>
             <div className="actions">
               <button className="primary" onClick={() => go("contact")}>Let’s connect <ArrowUpRight size={17} /></button>
-              <a className="secondary" href="/Anjali_Yadav_Resume.docx" download><Download size={17} /> Resume</a>
+              <a className="secondary" href="/Anjali_Yadav_Frontend_Dev.docx" download><Download size={17} /> Resume</a>
             </div>
             <div className="socials">
               <a href="https://www.linkedin.com/in/anjali-yadav-51828622a" target="_blank" rel="noreferrer"><Linkedin size={19} /> LinkedIn</a>
