@@ -1,0 +1,14 @@
+src/main.jsx
+  h_ad56f1c64bc389 89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "9e3e12b1e298f1d924af5dae6c64eb0b023ce6f3",
+  "prompts": {},
+  "humans": {
+    "h_ad56f1c64bc389": {
+      "author": "ayadav1 <ayadav1@cogiate.com>"
+    }
+  }
+}
